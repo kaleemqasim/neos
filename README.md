@@ -12,6 +12,7 @@ npm run serve
 ```
 
 ### Structure
+```
 public
   favicon.ico
   index.html
@@ -43,7 +44,7 @@ src
 package.json
 babel.config.js
 webpack.config.js
-
+```
 
 ### Compiles and minifies for production
 ```
